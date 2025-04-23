@@ -6,3 +6,4 @@ inquirer
 requests
 prettytable
 urllib3
+requests rich
