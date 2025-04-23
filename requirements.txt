@@ -1,0 +1,8 @@
+cloudscraper
+rich
+beautifulsoup4
+colorama
+inquirer
+requests
+prettytable
+urllib3
