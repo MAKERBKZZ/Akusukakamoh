@@ -1,4 +1,4 @@
-![VVIP Script Banner](images/Twiter.png)
+![VVIP Script Banner](https://raw.githubusercontent.com/MAKERBKZZ/Akusukakamoh/main/images/Twiter.png)
 
 
 ╔════════════════════════════════════════════════════════════════╗
