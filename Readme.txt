@@ -1,4 +1,4 @@
-![VVIP Script Banner](images/banner.png)
+![VVIP Script Banner](images/Twiter.png)
 
 
 ╔════════════════════════════════════════════════════════════════╗
